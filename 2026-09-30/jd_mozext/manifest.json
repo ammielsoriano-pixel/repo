@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "manifest_version": 3,
   "name": "Scroll Box Items Loader",
@@ -13,3 +14,20 @@
     "https://*/*"
   ]
 }
+=======
+{
+  "manifest_version": 3,
+  "name": "Scroll Box Items Loader",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup/jd.html"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [],
+  "host_permissions": [
+    "https://*/*"
+  ]
+}
+>>>>>>> 1f05326 (- progress on extension)
