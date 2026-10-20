@@ -9,8 +9,6 @@ Extension - overlay job potsing urls with highlights based on
 
 """
 import .json
-
 build tests around
-
 fuzzy word matching - ex SDLC ~= CI/CD
 """
